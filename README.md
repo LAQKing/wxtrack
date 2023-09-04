@@ -1,8 +1,4 @@
-### 更新记录
-| 编辑人员 | 时间 | 说明 |
-| :---: | :---: | :---:|
-| 梁安秋 | 2023-7-4 | 基于pc埋点sdk[report_sdk.js](http://10.10.19.236/SMS-Dept/public-components/blob/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F/wxtrack/report_sdk.js)修改并使用rollup打包小程序埋点SDK |
-git地址：http://10.10.19.236/SMS-Dept/public-components.git
+## 微信小程序埋点上报工具
 ### 目录结构
 
 项目的整体结构。
